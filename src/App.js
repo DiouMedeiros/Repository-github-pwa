@@ -31,7 +31,7 @@ export default class App extends Component {
           />
 
           <button onClick={this.addRepository}>
-            Adicionar1
+            Adicionar
           </button>
         </Header>
 
